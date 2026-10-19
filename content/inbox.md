@@ -1,21 +1,9 @@
 ---
-title: Inbox
-description: Mots-clés à transformer en cours. Traités chaque jour à 18h.
+title: Historique
+description: Liste des notions transformées en cours, par date.
 ---
 
-Un mot-clé par ligne. Contexte facultatif après un tiret : `- IKEv2 - différence avec IKEv1`.
-
-## À traiter
-
-
-## Suggéré
-
-Notions repérées dans les cours existants. Déplace une ligne dans « À traiter » pour qu'elle soit rédigée.
-
-- IKEv2
-- Diffie-Hellman
-- VPN
-- PKI
+Les mots-clés se notent dans la base Notion « Inbox cours ». Cette page garde l'historique des cours générés.
 
 ## Traité
 
