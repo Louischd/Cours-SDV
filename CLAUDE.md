@@ -5,7 +5,7 @@ Le site est **public** : aucune information interne d'entreprise (noms de serveu
 
 ## Procédure quotidienne (tâche de 17h50)
 
-L'inbox est une **base Notion** (connecteur Notion), plus le fichier `content/inbox.md` :
+L'inbox est une **base Notion** (connecteur Notion). `content/inbox.md` n'est plus qu'une page d'historique.
 - Base : « Inbox cours » — https://app.notion.com/p/11dac66eb7ec43119c7131fa579f7c70
 - Data source : `collection://f8f4b727-e473-4d25-b9c7-7e1e5b4be150`
 - Propriétés : `Mot-clé` (titre), `Contexte` (texte), `Statut` (À traiter / Traité / Suggéré / Erreur), `Catégorie` (Réseau / Sécurité / Systèmes), `Cours` (URL), `Traité le` (date).
